@@ -25,7 +25,7 @@ h1  {
     width: 100%;
 }
 
-h3 {
+h3{
 
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
@@ -40,10 +40,13 @@ h3 {
     border:2px solid black;
     border-radius:7px;
     height:40px;
-    width:330px;
+    width:230px;
     font-weight: 600;
     vertical-align: middle;
-  
+    
+}
+.len{
+    width:100px;
 }
 #submit {
     height:40px;
@@ -58,4 +61,16 @@ h3 {
 }
 #submit:hover{
     background-color: #0468d3;
+}
+#note{
+    display:block;
+    margin: 20px;
+}
+#forcolor{
+    margin: 30px;
+}
+.color1 ,.color2{
+    height:30px;
+    width:80px;
+    border-radius:7px;
 }
