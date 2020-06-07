@@ -4,7 +4,7 @@
   "description": "Exercise 135 (lecture-134) given in - www.udemy.com/the-complete-web-developer-in-2018\r is modified by taking directon as a input from user to generate the linear gradient in different direction.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
